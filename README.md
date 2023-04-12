@@ -5,6 +5,12 @@ anywhere and run.
 
 Code based on the guide here: <https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c>
 
+See also https://medium.com/@mlowicki/https-proxies-support-in-go-1-10-b956fb501d6b
+
+and https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/
+
+and this to setup upstream proxy: https://pkg.go.dev/net/http.
+
 ## Features
 
 - HTTP and HTTPS.
